@@ -1,0 +1,51 @@
+[
+  {
+    "time": "2026-11-24",
+    "temperature_2m_max (°C)": "14.8",
+    "temperature_2m_min (°C)": "4.3",
+    "precipitation_sum (mm)": "0.00",
+    "et0_fao_evapotranspiration (mm)": "2.05"
+  },
+  {
+    "time": "2026-11-25",
+    "temperature_2m_max (°C)": "10.6",
+    "temperature_2m_min (°C)": "0.7",
+    "precipitation_sum (mm)": "0.00",
+    "et0_fao_evapotranspiration (mm)": "1.72"
+  },
+  {
+    "time": "2026-11-26",
+    "temperature_2m_max (°C)": "15.6",
+    "temperature_2m_min (°C)": "1.7",
+    "precipitation_sum (mm)": "0.00",
+    "et0_fao_evapotranspiration (mm)": "1.89"
+  },
+  {
+    "time": "2026-11-27",
+    "temperature_2m_max (°C)": "15.6",
+    "temperature_2m_min (°C)": "3.1",
+    "precipitation_sum (mm)": "0.00",
+    "et0_fao_evapotranspiration (mm)": "1.75"
+  },
+  {
+    "time": "2026-11-28",
+    "temperature_2m_max (°C)": "13.2",
+    "temperature_2m_min (°C)": "5.0",
+    "precipitation_sum (mm)": "0.00",
+    "et0_fao_evapotranspiration (mm)": "1.37"
+  },
+  {
+    "time": "2026-11-29",
+    "temperature_2m_max (°C)": "11.4",
+    "temperature_2m_min (°C)": "3.8",
+    "precipitation_sum (mm)": "0.00",
+    "et0_fao_evapotranspiration (mm)": "1.18"
+  },
+  {
+    "time": "2026-11-30",
+    "temperature_2m_max (°C)": "7.7",
+    "temperature_2m_min (°C)": "2.9",
+    "precipitation_sum (mm)": "0.00",
+    "et0_fao_evapotranspiration (mm)": "1.28"
+  }
+]
