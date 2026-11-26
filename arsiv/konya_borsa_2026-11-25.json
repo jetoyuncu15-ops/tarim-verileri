@@ -1,0 +1,274 @@
+[
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "ARPALAR",
+    "urun_adi": "Arpa",
+    "satis_sekli": "H.M.S.",
+    "en_dusuk_fiyat_tl": 13.3,
+    "ortalama_fiyat_tl": 14.8631,
+    "en_yuksek_fiyat_tl": 15.8217,
+    "toplam_miktar_kg": 184405,
+    "islem_sayisi": 14
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "ARPALAR",
+    "urun_adi": "Arpa",
+    "satis_sekli": "H.T.S.",
+    "en_dusuk_fiyat_tl": 14.3564,
+    "ortalama_fiyat_tl": 14.9385,
+    "en_yuksek_fiyat_tl": 15.1,
+    "toplam_miktar_kg": 167100,
+    "islem_sayisi": 6
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "BUĞDAYLAR",
+    "urun_adi": "Beyaz Sert Buğday",
+    "satis_sekli": "H.M.S.",
+    "en_dusuk_fiyat_tl": 24,
+    "ortalama_fiyat_tl": 24,
+    "en_yuksek_fiyat_tl": 24,
+    "toplam_miktar_kg": 22530,
+    "islem_sayisi": 1
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "BUĞDAYLAR",
+    "urun_adi": "Beyaz Sert Buğday",
+    "satis_sekli": "H.T.S.",
+    "en_dusuk_fiyat_tl": 18.8351,
+    "ortalama_fiyat_tl": 21.0797,
+    "en_yuksek_fiyat_tl": 22.5711,
+    "toplam_miktar_kg": 340560,
+    "islem_sayisi": 3
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "BUĞDAYLAR",
+    "urun_adi": "Diğer Beyaz Buğday",
+    "satis_sekli": "H.M.S.",
+    "en_dusuk_fiyat_tl": 17.605,
+    "ortalama_fiyat_tl": 17.605,
+    "en_yuksek_fiyat_tl": 17.605,
+    "toplam_miktar_kg": 220,
+    "islem_sayisi": 1
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "BUĞDAYLAR",
+    "urun_adi": "Diğer Kırmızı Buğday",
+    "satis_sekli": "H.M.S.",
+    "en_dusuk_fiyat_tl": 15,
+    "ortalama_fiyat_tl": 15.8137,
+    "en_yuksek_fiyat_tl": 19.95,
+    "toplam_miktar_kg": 212320,
+    "islem_sayisi": 9
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "BUĞDAYLAR",
+    "urun_adi": "Diğer Kırmızı Buğday",
+    "satis_sekli": "H.T.S.",
+    "en_dusuk_fiyat_tl": 16.5,
+    "ortalama_fiyat_tl": 18.5241,
+    "en_yuksek_fiyat_tl": 21.3778,
+    "toplam_miktar_kg": 824250,
+    "islem_sayisi": 14
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "BUĞDAYLAR",
+    "urun_adi": "Kırmızı Sert Buğday",
+    "satis_sekli": "H.T.S.",
+    "en_dusuk_fiyat_tl": 19.15,
+    "ortalama_fiyat_tl": 20.0671,
+    "en_yuksek_fiyat_tl": 22,
+    "toplam_miktar_kg": 316120,
+    "islem_sayisi": 8
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "BUĞDAYLAR",
+    "urun_adi": "Kırmızı Sert Buğday",
+    "satis_sekli": "H.M.S.",
+    "en_dusuk_fiyat_tl": 18.35,
+    "ortalama_fiyat_tl": 19.734,
+    "en_yuksek_fiyat_tl": 21.55,
+    "toplam_miktar_kg": 550580,
+    "islem_sayisi": 17
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "BAKLİYAT",
+    "urun_grubu": "KURU FASULYE",
+    "urun_adi": "Kuru Fasulye",
+    "satis_sekli": "H.M.S.",
+    "en_dusuk_fiyat_tl": 55,
+    "ortalama_fiyat_tl": 58.888,
+    "en_yuksek_fiyat_tl": 80,
+    "toplam_miktar_kg": 78356,
+    "islem_sayisi": 4
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "BAKLİYAT",
+    "urun_grubu": "KURU FASULYE",
+    "urun_adi": "Kuru Fasulye",
+    "satis_sekli": "H.T.S.",
+    "en_dusuk_fiyat_tl": 58.5,
+    "ortalama_fiyat_tl": 61.8788,
+    "en_yuksek_fiyat_tl": 66,
+    "toplam_miktar_kg": 114460,
+    "islem_sayisi": 5
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "BUĞDAYLAR",
+    "urun_adi": "Makarnalık Buğday",
+    "satis_sekli": "H.M.S.",
+    "en_dusuk_fiyat_tl": 16,
+    "ortalama_fiyat_tl": 17.0822,
+    "en_yuksek_fiyat_tl": 19,
+    "toplam_miktar_kg": 238830,
+    "islem_sayisi": 13
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "BUĞDAYLAR",
+    "urun_adi": "Makarnalık Buğday",
+    "satis_sekli": "H.T.S.",
+    "en_dusuk_fiyat_tl": 16.8,
+    "ortalama_fiyat_tl": 18.1241,
+    "en_yuksek_fiyat_tl": 18.5,
+    "toplam_miktar_kg": 2598190,
+    "islem_sayisi": 8
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "MISIR",
+    "urun_adi": "Mısır",
+    "satis_sekli": "H.T.S.",
+    "en_dusuk_fiyat_tl": 12.3235,
+    "ortalama_fiyat_tl": 15.7487,
+    "en_yuksek_fiyat_tl": 18.1784,
+    "toplam_miktar_kg": 11353960,
+    "islem_sayisi": 20
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "HUBUBAT",
+    "urun_grubu": "MISIR",
+    "urun_adi": "Mısır",
+    "satis_sekli": "H.M.S.",
+    "en_dusuk_fiyat_tl": 11.45,
+    "ortalama_fiyat_tl": 14.0216,
+    "en_yuksek_fiyat_tl": 15.351,
+    "toplam_miktar_kg": 2806410,
+    "islem_sayisi": 62
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "BAKLİYAT",
+    "urun_grubu": "NOHUT",
+    "urun_adi": "Nohut",
+    "satis_sekli": "H.M.S.",
+    "en_dusuk_fiyat_tl": 35,
+    "ortalama_fiyat_tl": 35,
+    "en_yuksek_fiyat_tl": 35,
+    "toplam_miktar_kg": 85716,
+    "islem_sayisi": 1
+  },
+  {
+    "borsa": "Konya Ticaret Borsası",
+    "tarih": [
+      "2026-11-25",
+      "00:00:00"
+    ],
+    "ana_grup": "BAKLİYAT",
+    "urun_grubu": "NOHUT",
+    "urun_adi": "Nohut",
+    "satis_sekli": "H.T.S.",
+    "en_dusuk_fiyat_tl": 34,
+    "ortalama_fiyat_tl": 35.9877,
+    "en_yuksek_fiyat_tl": 37.65,
+    "toplam_miktar_kg": 98590,
+    "islem_sayisi": 6
+  }
+]
